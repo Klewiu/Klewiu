@@ -1,10 +1,8 @@
-<!--[![MasterHead](https://img.freepik.com/free-photo/3d-render-code-testing-functional-test-usability_107791-16607.jpg?w=1800&)](https://tomprint.github.io/portfolio/)-->
-
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47jj23jpvi11wuyz5k6jrs6klrorfnnuuaa00r8g2o&rid=giphy.gif&ct=g"> 
 <h4 align="center">A passionate web developer from Warsaw (PL)</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomprint&label=Profile%20views&color=0e75b6&style=flat" alt="tomprint" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=klewiu&label=Profile%20views&color=0e75b6&style=flat" alt="Klewiu" /> </p>
 
 <h3 align="left"> 👨‍💻 Feel free to check out some of my projects at <h5> https://klewiu.github.io/Portfolio/ </h5> </h3>
 
