@@ -67,17 +67,6 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=klewiu&show_icons=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=klewiu&layout=compact&cache_seconds=1800"
-    alt="Top Languages"
-  />
-  
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=klewiu&cache_seconds=1800"
-    alt="GitHub Streak"
-  />
+<img
+  src="https://ghstats.iamrohit.in/api?username=klewiu"
+/>
