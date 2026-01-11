@@ -19,14 +19,20 @@
 
 <hr>
 
-<h3 align="center">👨‍💻 Portfolio & Udemy </h3>
-  <p align="center">
-    👉 <a href="https://code-brothers.eu" target="_blank"></a>
-   
-  </p>
-  <p align="center">
-   👉 <a href="https://klewiu.github.io/Portfolio/" target="_blank"></a>
-  </p>
+<h3 align="center">👨‍💻 Portfolio & Udemy</h3>
+
+<p align="center">
+  👉 <a href="https://code-brothers.eu" target="_blank">
+    Udemy / Code Brothers
+  </a>
+</p>
+
+<p align="center">
+  👉 <a href="https://klewiu.github.io/Portfolio/" target="_blank">
+    Personal Portfolio
+  </a>
+</p>
+
 <hr>
 
 <h3 align="left">📫 Connect with me</h3>
@@ -42,30 +48,39 @@
 
 <hr>
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">🛠 Known Technologies</h3>
 
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" />
+<br/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+
 </p>
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📈 GitHub Activity</h3>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klewiu)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=klewiu" />
+</p>
