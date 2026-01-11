@@ -22,7 +22,7 @@
 <h3 align="center">👨‍💻 Portfolio</h3>
 <p align="center">
   👉 <a href="https://klewiu.github.io/Portfolio/" target="_blank">
-    https://klewiu.github.io/Portfolio/
+    https://klewiu.github.io/Portfolio/](https://code-brothers.eu/pl-PL/)
   </a>
 </p>
 
