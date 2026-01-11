@@ -20,11 +20,13 @@
 <hr>
 
 <h3 align="center">👨‍💻 Portfolio & Udemy </h3>
-<p align="center">
-  👉 <a href="https://code-brothers.eu" target="_blank"></a>
-  👉 <a href="https://klewiu.github.io/Portfolio/" target="_blank"></a>
-</p>
-
+  <p align="center">
+    👉 <a href="https://code-brothers.eu" target="_blank"></a>
+   
+  </p>
+  <p align="center">
+   👉 <a href="https://klewiu.github.io/Portfolio/" target="_blank"></a>
+  </p>
 <hr>
 
 <h3 align="left">📫 Connect with me</h3>
