@@ -67,20 +67,17 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=klewiu&show_icons=true"
-    alt="GitHub Stats" />
-</p>
-
-<p align="center">
+    src="https://github-readme-stats.vercel.app/api?username=klewiu&show_icons=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+  
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=klewiu&layout=compact"
-    alt="Top Languages" />
-</p>
-
-<p align="center">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=klewiu&layout=compact&cache_seconds=1800"
+    alt="Top Languages"
+  />
+  
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=klewiu"
-    alt="GitHub Streak" />
-</p>
+    src="https://github-readme-streak-stats.herokuapp.com/?user=klewiu&cache_seconds=1800"
+    alt="GitHub Streak"
+  />
