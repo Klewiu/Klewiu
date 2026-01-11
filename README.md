@@ -67,7 +67,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<img
-  src="https://ghstats.iamrohit.in/api?username=klewiu"
-  alt="GitHub Stats"
-/>
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
