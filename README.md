@@ -69,4 +69,5 @@
 
 <img
   src="https://ghstats.iamrohit.in/api?username=klewiu"
+  alt="GitHub Stats"
 />
